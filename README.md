@@ -32,13 +32,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    *Answer* Document Object Model. It is a language neutral interface that allows programmers to dynamical update content of a ducument (such as updating HTML/CSS on a webpage), without needing to directly change the HTML or CSS files. 
+
 2. What is an event?
+
+    *Answer* There are many different events, some very commonly used one are click, mouseovers, scrolls. They are something that a user activley does on a webpage or a program. 
+
 
 3. What is an event listener?
 
+    *Answer* It is the way the "code" looks for an event to perform an action that has been determined by the programmer. 
+
 4. Why would we convert a NodeList into an Array?
 
+    *Answer* To be able to access methods that can only be used by an array.
+
 5. What is a component?
+
+    *Answer* Esentially it is a bit of reusable code. Bootstrap is a good example of many different components. An example of a component is special buttons. It is created once, and reusable over and over again. 
 
 ### Git Set up
 
